@@ -1,0 +1,5 @@
+C:\Users\Brajeev\Documents\cube-reporting\BuyPlan\POC\Demo\BuyPlan\BuyPlan\bin\Debug\BuyPlan.dacpac
+C:\Users\Brajeev\Documents\cube-reporting\BuyPlan\POC\Demo\BuyPlan\BuyPlan\bin\Debug\BuyPlan.dll
+C:\Users\Brajeev\Documents\cube-reporting\BuyPlan\POC\Demo\BuyPlan\BuyPlan\bin\Debug\BuyPlan.pdb
+C:\Users\Brajeev\Documents\cube-reporting\BuyPlan\POC\Demo\BuyPlan\BuyPlan\obj\Debug\BuyPlan.dll
+C:\Users\Brajeev\Documents\cube-reporting\BuyPlan\POC\Demo\BuyPlan\BuyPlan\obj\Debug\BuyPlan.pdb
